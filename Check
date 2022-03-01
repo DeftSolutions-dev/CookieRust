@@ -1,93 +1,358 @@
 {
 
-	"RustClient_Data/Managed/ApexAI.dll":"ec4327c1ce10dd142d40f0e7fdb68c52",
-	"RustClient_Data/Managed/ApexSerialization.dll":"8101a7751aaed588d944e0e8d1bee458",
-	"RustClient_Data/Managed/ApexShared.dll":"4678799c9d45479f5b0bfca687d51841",
-	"RustClient_Data/Managed/Assembly-CSharp-firstpass.dll":"d79f12407174bf527b42247da42adef2",
-	"RustClient_Data/Managed/Assembly-CSharp.dll":"8742d0f1bfe1a37af91208626d887fa9",
-	"RustClient_Data/Managed/com.unity.postprocessing.Runtime.dll":"e9ef51a13df4bc9a5b30ac0390aed0fd",
-	"RustClient_Data/Managed/EasyAntiCheat.Client.dll":"65d88860567c3c6ddcd5c6319d9bb360",
-	"RustClient_Data/Managed/Facepunch.Console.dll":"f7ac4a76710b7d4bbd6516b4976c66ae",
-	"RustClient_Data/Managed/Facepunch.GoogleSheets.dll":"574b010b17ca03102e6c08c6740f0c88",
-	"RustClient_Data/Managed/Facepunch.Input.dll":"63df4dbc33756895e85ac06a1d45110b",
-	"RustClient_Data/Managed/Facepunch.Network.dll":"3afbbedca6e3c60126992a6325f8b8f9",
-	"RustClient_Data/Managed/Facepunch.Raknet.dll":"33cbd7ca03ef8d37e586b760f5f6403c",
-	"RustClient_Data/Managed/Facepunch.Rcon.dll":"61e32c89db79b050cc819cc3e9a2918d",
-	"RustClient_Data/Managed/Facepunch.Skeleton.dll":"aa8043b4b8cef0f789524ffeda5b5ff3",
-	"RustClient_Data/Managed/Facepunch.Sqlite.dll":"15498d0d20e9de5a611376b6645be1bf",
-	"RustClient_Data/Managed/Facepunch.Steamworks.dll":"fd32a5f60ed0e08dc148e7b2d63c93a7",
-	"RustClient_Data/Managed/Facepunch.System.dll":"0e133693a09ddd525a2e65c4881eb600",
-	"RustClient_Data/Managed/Facepunch.Unity.dll":"fe0312aef20d4b41f86a1c21de2abe9b",
-	"RustClient_Data/Managed/Facepunch.UnityEngine.dll":"1135492c158af612fc650d0ce31c43ff",
-	"RustClient_Data/Managed/GA.dll":"a2d7e2d685a7ea36636ad39ce00b3d74",
-	"RustClient_Data/Managed/I18N.CJK.dll":"cb44baba04058fef8c5ad1744732e4de",
-	"RustClient_Data/Managed/I18N.dll":"966c9b67b9ebf214f3694092e7901282",
-	"RustClient_Data/Managed/I18N.MidEast.dll":"9369ad99a45692fa47e10e446a050ee8",
-	"RustClient_Data/Managed/I18N.Other.dll":"c2afa85bf82e5f4b54aa30e8e279dac8",
-	"RustClient_Data/Managed/I18N.Rare.dll":"68bb5c6f29b74c0ca4612cc98fa5a91a",
-	"RustClient_Data/Managed/I18N.West.dll":"7b0efda19a50734e2e4f8306dd801e81",
-	"RustClient_Data/Managed/Ionic.Zip.Reduced.dll":"933c098a854bfcd73495f565f2288ec4", 
-	"RustClient_Data/Managed/LZ4.dll":"f3ee02c5a7f751ce88d5cc231af300f0",
-	"RustClient_Data/Managed/LZ4pn.dll":"dafab28d18cc0d84ba509b1ddada1873",
-	"RustClient_Data/Managed/Mono.Data.Sqlite.dll":"2e1ce98bb19ebbde3162b72258840945",
-	"RustClient_Data/Managed/Mono.Security.dll":"13f7c2453aed3841301df72fab7a6fd4",
-	"RustClient_Data/Managed/mscorlib.dll":"12a6e99b2b7b62d63e995b48cda2c377",
-	"RustClient_Data/Managed/netstandard.dll":"1ada9ddc8e668c4609760d1271791033",
-	"RustClient_Data/Managed/NewAssembly.dll":"77f6baa2f03f586e4056a6b61a490323",
-	"RustClient_Data/Managed/Newtonsoft.Json.dll":"0fc4bcd30cbf4299007b897a94ef5243",
-	"RustClient_Data/Managed/protobuf-net.dll":"9a9ffe755e7851157d402ae3be3a9525",
-	"RustClient_Data/Managed/Rust.Data.dll":"b65d264fae532cb186227e1ed9c609e3",
-	"RustClient_Data/Managed/Rust.Global.dll":"db654bc5638e02b20ffe754001eef532",
-	"RustClient_Data/Managed/Rust.UI.dll":"0c693ed49d9626bdd1d0afb59df926f6",
-	"RustClient_Data/Managed/Rust.Workshop.dll":"2edf24f0172aa068e35a9c50645c0b4e",
-	"RustClient_Data/Managed/Rust.World.dll":"94a485f7dc856b99511a5915b8a3cace",
-	"RustClient_Data/Managed/System.Configuration.dll":"412b2e1b943256ad7e08fd4dbb8ede54",
-	"RustClient_Data/Managed/System.Core.dll":"51812a62389c18cb78fc651ebcbce06d",
-	"RustClient_Data/Managed/System.Data.dll":"73c6386ef33b45ac26016fb61b17131a",
-	"RustClient_Data/Managed/System.Diagnostics.StackTrace.dll":"ae918c9fa60eea657c6089a9d7ffdbb5",
-	"RustClient_Data/Managed/System.dll":"45905dfe839797695bea44dfca0b1813",
-	"RustClient_Data/Managed/System.Globalization.Extensions.dll":"f0cfc2088dda9bd6be02d5f119c2ff7b",
-	"RustClient_Data/Managed/System.IO.Compression.dll":"f363c1b89ba2e5b6454abc7e6b7e7b77",
-	"RustClient_Data/Managed/System.Numerics.dll":"a5c136376cc626b56e0c9a7c6c28ffb5",
-	"RustClient_Data/Managed/System.Runtime.Serialization.dll":"fb70de217ee2840ae2e7f79caf6dd4e2",
-	"RustClient_Data/Managed/System.Transactions.dll":"92661c8323d60de32fc6ba257d4d142d",
-	"RustClient_Data/Managed/System.Xml.dll":"4f6ccae21828de5090aa6b14a0992b88",
-	"RustClient_Data/Managed/System.Xml.Linq.dll":"cafe9f01b5210739acfd8c7c1c4a459b",
-	"RustClient_Data/Managed/Unity.TextMeshPro.dll":"b2336a73730f12b3b0304c8474f58413",
-	"RustClient_Data/Managed/UnityEngine.AIModule.dll":"d7e5b5d4a0da576048659e2d4a1936d7",
-	"RustClient_Data/Managed/UnityEngine.AnimationModule.dll":"bb17d3c5051818d1cad1c59d4b090cf4",
-	"RustClient_Data/Managed/UnityEngine.AssetBundleModule.dll":"9f76661073af655df26e84557c629039",
-	"RustClient_Data/Managed/UnityEngine.AudioModule.dll":"7593c887147ea2c3d0f3a75a8bc48dfe",
-	"RustClient_Data/Managed/UnityEngine.ClothModule.dll":"7dc8c2cef0038b74e3d40995c36c7c19",
-	"RustClient_Data/Managed/UnityEngine.CoreModule.dll":"30fb9fe453c8b8e429b0990468e56b14",
-	"RustClient_Data/Managed/UnityEngine.DirectorModule.dll":"b9cf36fc86a997877c039829a284edfc",
-	"RustClient_Data/Managed/UnityEngine.dll":"c15a6e81eca733a3c27e2c886c6da654",
-	"RustClient_Data/Managed/UnityEngine.GridModule.dll":"681cd6b9f64c70b7dacce04c9821b1a3",
-	"RustClient_Data/Managed/UnityEngine.ImageConversionModule.dll":"9383799de8859bb14c9372a9311ef96b",
-	"RustClient_Data/Managed/UnityEngine.IMGUIModule.dll":"89dbb6956792e97d7d6d95dc323dfd24",
-	"RustClient_Data/Managed/UnityEngine.InputModule.dll":"7675dabd8395b2c090b36a66c30cc5b5",
-	"RustClient_Data/Managed/UnityEngine.ParticleSystemModule.dll":"4a9414ac940835f3e31a245a3d277e54",
-	"RustClient_Data/Managed/UnityEngine.Physics2DModule.dll":"b2786e2984e925925ae3d8ac2825eee6",
-	"RustClient_Data/Managed/UnityEngine.PhysicsModule.dll":"7a01f13c92676b8011c29ccbc74f1339",
-	"RustClient_Data/Managed/UnityEngine.ScreenCaptureModule.dll":"7d3f2ab8c3c2d425e4329e252298a85b",
-	"RustClient_Data/Managed/UnityEngine.SharedInternalsModule.dll":"43cb86312d6e2a93f58167111176ca32",
-	"RustClient_Data/Managed/UnityEngine.TerrainModule.dll":"c6f670b3b559b7a33d1438619e66095e",
-	"RustClient_Data/Managed/UnityEngine.TerrainPhysicsModule.dll":"2bb061f27fa4dc40965016992f81d4b3",
-	"RustClient_Data/Managed/UnityEngine.TextCoreModule.dll":"16d18cbf60214cb9fc4df94b20d63ac3",
-	"RustClient_Data/Managed/UnityEngine.TextRenderingModule.dll":"3a3a4474745c03a2170bc3b3ecef0492",
-	"RustClient_Data/Managed/UnityEngine.TilemapModule.dll":"7ce2abfde1818179aebd099057d6aa6f",
-	"RustClient_Data/Managed/UnityEngine.UI.dll":"93cbc4569f0fd06b1c188fe3cd913e7a",
-	"RustClient_Data/Managed/UnityEngine.UIElementsModule.dll":"8c010e3c4b855eca5931b39c3c005c53",
-	"RustClient_Data/Managed/UnityEngine.UIModule.dll":"1432a6f55370b4a001239916bb6bb0a7",
-	"RustClient_Data/Managed/UnityEngine.UnityAnalyticsModule.dll":"805e64adb7963a0706bbcd9daeba36c6",
-	"RustClient_Data/Managed/UnityEngine.UnityWebRequestModule.dll":"d7a8013afe469ac58ba4d412039c7fb2",
-	"RustClient_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll":"9906dcbbb081f2c09ad272d5d3754d57",
-	"RustClient_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll":"b63df1199e7a6a31c47977206cabca7a",
-	"RustClient_Data/Managed/UnityEngine.VehiclesModule.dll":"7a65d307b6ee086476364e3441b668ba",
-	"RustClient_Data/Managed/UnityEngine.VFXModule.dll":"32c99c46c2b2f5b8bd8ab8770f3578ee",
-	"RustClient_Data/Managed/UnityEngine.VideoModule.dll":"7959aff918613cdf56cc119f666b6eda",
-	"RustClient_Data/Managed/UnityEngine.VRModule.dll":"07fcf8f76b0aa6e467bec329dea09099",
-	"RustClient_Data/Managed/UnityEngine.WindModule.dll":"dcfa75b23cc752912f9783c94b0be1ec",
-	"RustClient_Data/Managed/UnityEngine.XRModule.dll":"0295cb2d1bfb1b3221886eb1bcf1666a",
-	"RustClient_Data/Managed/websocket-sharp.dll":"ff2e9baad60f10bf633f89af3fa3522c",
+	"RustClient_Data/Managed/ApexAI.dll":"d802b92c8eaaf88d0465666b16b1cb95",
+ 
+ 
+
+"RustClient_Data/Managed/ApexSerialization.dll":"5c699fc3b6a5599c925711c50479ab02",
+ 
+ 
+
+"RustClient_Data/Managed/ApexShared.dll":"d41adee29baa0fa64f0f8b0271043845",
+ 
+ 
+
+"RustClient_Data/Managed/Assembly-CSharp-firstpass.dll":"498addaaa5efbfd68a0711fb28322965",
+ 
+ 
+
+"RustClient_Data/Managed/Assembly-CSharp.dll":"196296fe06f92fd59edd8d5688d31347",
+ 
+ 
+
+"RustClient_Data/Managed/com.unity.postprocessing.Runtime.dll":"4933aa75760623b7f8d3f160d876a785",
+ 
+ 
+
+"RustClient_Data/Managed/EasyAntiCheat.Client.dll":"dfcfd3de8b0b7818a74410f4cb8f49b9",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.Console.dll":"e002a2177ebb1a11cf5c4fa35a2cebfb",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.GoogleSheets.dll":"213cf921c7b51d900cbad2b0e9227483",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.Input.dll":"bbe83230da81cfac66afa2d80ef2913e",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.Network.dll":"3c5d6f9a9f5d055f92cc3be4b6fc48d9",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.Raknet.dll":"29382261df95e5165b4ce7ab789fef89",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.Rcon.dll":"e8719d6d039b042fb6d5f89b9024b25c",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.Skeleton.dll":"6a878ced3f9e059d9266ea93c8a86110",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.Sqlite.dll":"03fd98920fe29244cc9a742fd180fb1b",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.Steamworks.dll":"459c68e99ddcd605da9903d26cacd8e7",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.System.dll":"a075102cf70a021e8dc12c7c76a28464",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.Unity.dll":"c9180f206a11f746e719417c64ee3f3c",
+ 
+ 
+
+"RustClient_Data/Managed/Facepunch.UnityEngine.dll":"f3cdac3bac93fe1dc589d9830f6bd363",
+ 
+ 
+
+"RustClient_Data/Managed/GA.dll":"ad95b1c0ce5b4bb95c2454449a0425e2",
+ 
+ 
+
+"RustClient_Data/Managed/I18N.CJK.dll":"371e1d503a535b7af8788a67aa1407ba",
+ 
+ 
+
+"RustClient_Data/Managed/I18N.dll":"b21068cabe8209c14e34b0b9723618ef",
+ 
+ 
+
+"RustClient_Data/Managed/I18N.MidEast.dll":"05f57fee830be006ed133038e0574ced",
+ 
+ 
+
+"RustClient_Data/Managed/I18N.Other.dll":"9f7f8a24d883e3e0f422781c300283d3",
+ 
+ 
+
+"RustClient_Data/Managed/I18N.Rare.dll":"3f8a168cc2ee622e5063d94fa0aba07b",
+ 
+ 
+
+"RustClient_Data/Managed/I18N.West.dll":"eec19c97a5a7611274e36bcdc32eda9b",
+ 
+ 
+
+"RustClient_Data/Managed/Ionic.Zip.Reduced.dll":"1c458b8181f87ceb865128481c67f672",
+ 
+ 
+
+"RustClient_Data/Managed/LZ4.dll":"b6f6740a67af637b6fb20eccb9a2d06d",
+ 
+ 
+
+"RustClient_Data/Managed/LZ4pn.dll":"61ce1ea58de6e275fd73bbed56ebf418",
+ 
+ 
+
+"RustClient_Data/Managed/Mono.Data.Sqlite.dll":"d0a7a7b0b597e9dfc631b8869c5a0130",
+ 
+ 
+
+"RustClient_Data/Managed/Mono.Security.dll":"4c9edd8f0e4b4a3bc6e704dffb9282bb",
+ 
+ 
+
+"RustClient_Data/Managed/mscorlib.dll":"67563b927df640a81e49423350e31436",
+ 
+ 
+
+"RustClient_Data/Managed/netstandard.dll":"5a68be46715698b98098b13b68057a9b",
+ 
+ 
+
+"RustClient_Data/Managed/NewAssembly.dll":"7425ad6c03590b08bfe091d0e0bb0d29",
+ 
+ 
+
+"RustClient_Data/Managed/Newtonsoft.Json.dll":"b15b12583086c9b5f74d6e4f4c31d188",
+ 
+ 
+
+"RustClient_Data/Managed/protobuf-net.dll":"5be62387eec9dacd7b7eedf2fcd81f63",
+ 
+ 
+
+"RustClient_Data/Managed/Rust.Data.dll":"7d696c8fe9f24378b59d4ca6f83d2a23",
+ 
+ 
+
+"RustClient_Data/Managed/Rust.Global.dll":"e912e102326daaecce62e08ff9d1521e",
+ 
+ 
+
+"RustClient_Data/Managed/Rust.UI.dll":"ece0fe4eef231b1584a268ca054c6dfc",
+ 
+ 
+
+"RustClient_Data/Managed/Rust.Workshop.dll":"98ca8125600d19acb62624b76322d259",
+ 
+ 
+
+"RustClient_Data/Managed/Rust.World.dll":"a60bb6b75c8a82e7b5622b599b66cf78",
+ 
+ 
+
+"RustClient_Data/Managed/System.Configuration.dll":"bc61e7d67272702cb0e5c3c19ff60494",
+ 
+ 
+
+"RustClient_Data/Managed/System.Core.dll":"f9d30bd696732c0ef59513b1325b45a1",
+ 
+ 
+
+"RustClient_Data/Managed/System.Data.dll":"e9d1568203a45f1058ac1e0a365ff0a1",
+ 
+ 
+
+"RustClient_Data/Managed/System.Diagnostics.StackTrace.dll":"8c1dc3e3cdd2af16a0bac66b6f0e7610",
+ 
+ 
+
+"RustClient_Data/Managed/System.dll":"57a27a6a971c01dc662596871890ea55",
+ 
+ 
+
+"RustClient_Data/Managed/System.Globalization.Extensions.dll":"78d1b0cc4e54ffe77c9e0c4b0d1f18bd",
+ 
+ 
+
+"RustClient_Data/Managed/System.IO.Compression.dll":"706e50cf49116cff7fd72f65b3a29686",
+ 
+ 
+
+"RustClient_Data/Managed/System.Numerics.dll":"df6c62252464fee46f3735d7f9277a7a",
+ 
+ 
+
+"RustClient_Data/Managed/System.Runtime.Serialization.dll":"efd5219b8d9bcc23817e95741a0a0ec5",
+ 
+ 
+
+"RustClient_Data/Managed/System.Transactions.dll":"a33f2cddf57c95dac1d89d95d44b18b3",
+ 
+ 
+
+"RustClient_Data/Managed/System.Xml.dll":"fbb0f67070357731ffd4e912027f73dc",
+ 
+ 
+
+"RustClient_Data/Managed/System.Xml.Linq.dll":"5c9457fb16275aa10723e8211750f37c",
+
+"RustClient_Data/Managed/Unity.TextMeshPro.dll":"70ec73a8fcbf88d9989272735d203ea1",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.AIModule.dll":"de661552915c19e1bef3e2badd9f450b",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.AnimationModule.dll":"788c5d0fc9bcc67311f8a7f40e52aafc",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.AssetBundleModule.dll":"dd31ca2aee9bdaa6579aea4356dab330",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.AudioModule.dll":"ad60b50716d7a9ab4f8c952873cf014e",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.ClothModule.dll":"4e1e1106c5b2f8b7567763bb4fac019c",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.CoreModule.dll":"ae1568a228771bbc84861a69f39f1ecb",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.DirectorModule.dll":"3da2081e39aedb2e6f9147d598030da8",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.dll":"f3e08e4ea6ec1aee0d6ddd546949daee",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.GridModule.dll":"eaa216fe7a4b5c49a6403b0588f07199",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.ImageConversionModule.dll":"dc0201900f765c3e227d00ee542802bf",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.IMGUIModule.dll":"1f14ef10d88622741026e2de5fdbc17e",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.InputModule.dll":"7ca1ede410dba3f19e04c194225d8069",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.ParticleSystemModule.dll":"d6d4b42d249be61a751664e2f4af648c",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.Physics2DModule.dll":"b9c3a3891c850497acbed22b581cb3d2",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.PhysicsModule.dll":"fc0dd902f544f4f8b4746bae7f9bc55a",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.ScreenCaptureModule.dll":"460f5e77f16d21df2ffd4c5e002ae2e4",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.SharedInternalsModule.dll":"205b21495a1efd674f53c7a8849be817",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.TerrainModule.dll":"67a1880c7729d66501e7ffbd5b4ab783",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.TerrainPhysicsModule.dll":"e6770b1a3ac6222ed03b04d5ecc9e340",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.TextCoreModule.dll":"9d2dd2525302d6514ffd126a048dad92",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.TextRenderingModule.dll":"6baae2b3b072001c61eb25311365cf8e",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.TilemapModule.dll":"7fb4f78fe90fb4e979dc489255b5e812",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.UI.dll":"8af4aa7c89ed7ef34e70adf77d9ec85e",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.UIElementsModule.dll":"9b34686ce94fbd6456f6ebfc12f97187",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.UIModule.dll":"975b090619a67cea7e2861265321cca9",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.UnityAnalyticsModule.dll":"cfa9b1ef2e611b5d85f5fa43b7811ed2",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.UnityWebRequestModule.dll":"36dfe3ce635b7624affbbd2ca32e3701",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll":"13c396c0a4200638c729dfc241265cc7",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll":"2aa7bb764ac3252d35089b4fe43055a7",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.VehiclesModule.dll":"d00875064505d0a93fe9a361afdfaf61",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.VFXModule.dll":"1a7153230109ef87e8e5d90c00703a78",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.VideoModule.dll":"9e90ebaeccac6c3177dbd7febbe4e43f",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.VRModule.dll":"3e86a95894bdec9f9a34fbe892ffec34",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.WindModule.dll":"b6c0c5a196d34a3a62964e67202e39fb",
+ 
+ 
+
+"RustClient_Data/Managed/UnityEngine.XRModule.dll":"036987020ddaf5730e916e4461f798fc",
+ 
+ 
+
+"RustClient_Data/Managed/websocket-sharp.dll":"118a9376933bf2131d503a40c373c251",
 }
