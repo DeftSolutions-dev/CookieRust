@@ -34,7 +34,7 @@
 	"RustClient_Data/Managed/mscorlib.dll":"57c0b6f79d7bf6da140cb86d5d26d3f7",
 	"RustClient_Data/Managed/netstandard.dll":"56d60ca9553e510c0c5b2299bca5ebce",
 	"RustClient_Data/Managed/NewAssembly.dll":"ce0d3d0170782a6a98d0eec8136a8205",
-	"RustClient_Data/Managed/Newtonsoft.Json.dll":"39e3b6c719d1a9c415567b3744c45e84",
+	"RustClient_Data/Managed/Newtonsoft.Json.dll":"09beb921556ed9248a587de978e3680d",
 	"RustClient_Data/Managed/protobuf-net.dll":"277167a1c4d690f0e7dba5025cfe51c5",
 	"RustClient_Data/Managed/Rust.Data.dll":"cd8a5b5397c8e5f1ba589170129474e1",
 	"RustClient_Data/Managed/Rust.Global.dll":"4cbdf8405293bddbe6536773babca6a1",
